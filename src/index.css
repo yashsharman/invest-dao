@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  font-family: sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+/* .compare {
+  background-image: url("./img/compare.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+} */
